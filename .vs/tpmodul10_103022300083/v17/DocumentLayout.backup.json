@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Idan\\Documents\\Jidan\\College\\Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\repos\\tpmodul10_103022300083\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C942996-3325-47C3-AF62-3796FDAD4EE6}|tpmodul10_103022300083\\tpmodul10_103022300083.csproj|c:\\users\\idan\\documents\\jidan\\college\\semester 4\\konstruksi perangkat lunak\\praktikum\\repos\\tpmodul10_103022300083\\tpmodul10_103022300083\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C942996-3325-47C3-AF62-3796FDAD4EE6}|tpmodul10_103022300083\\tpmodul10_103022300083.csproj|solutionrelative:tpmodul10_103022300083\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C942996-3325-47C3-AF62-3796FDAD4EE6}|tpmodul10_103022300083\\tpmodul10_103022300083.csproj|c:\\users\\idan\\documents\\jidan\\college\\semester 4\\konstruksi perangkat lunak\\praktikum\\repos\\tpmodul10_103022300083\\tpmodul10_103022300083\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C942996-3325-47C3-AF62-3796FDAD4EE6}|tpmodul10_103022300083\\tpmodul10_103022300083.csproj|solutionrelative:tpmodul10_103022300083\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MahasiswaController.cs",
+              "DocumentMoniker": "C:\\Users\\Idan\\Documents\\Jidan\\College\\Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\repos\\tpmodul10_103022300083\\tpmodul10_103022300083\\Controllers\\MahasiswaController.cs",
+              "RelativeDocumentMoniker": "tpmodul10_103022300083\\Controllers\\MahasiswaController.cs",
+              "ToolTip": "C:\\Users\\Idan\\Documents\\Jidan\\College\\Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\repos\\tpmodul10_103022300083\\tpmodul10_103022300083\\Controllers\\MahasiswaController.cs",
+              "RelativeToolTip": "tpmodul10_103022300083\\Controllers\\MahasiswaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:37:10.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\Idan\\Documents\\Jidan\\College\\Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\repos\\tpmodul10_103022300083\\tpmodul10_103022300083\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "tpmodul10_103022300083\\Mahasiswa.cs",
+              "ToolTip": "C:\\Users\\Idan\\Documents\\Jidan\\College\\Semester 4\\Konstruksi Perangkat Lunak\\Praktikum\\repos\\tpmodul10_103022300083\\tpmodul10_103022300083\\Mahasiswa.cs",
+              "RelativeToolTip": "tpmodul10_103022300083\\Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T12:31:01.403Z",
+              "EditorCaption": ""
             }
           ]
         }
